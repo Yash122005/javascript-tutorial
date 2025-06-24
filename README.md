@@ -1,2 +1,3 @@
 # javascript-tutorial
-revising and making notes there
+revising and making notes there...
+#intereating  32:00 part 2
